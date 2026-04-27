@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/FastAPI-0.111-green?style=flat-square&logo=fastapi" />
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+  
 </p>
 
 <p align="center">
@@ -356,4 +356,4 @@ print(result["severity_score"])       # Urgency score
 
 Built by a passionate AI/ML engineer as a production-grade portfolio project demonstrating end-to-end multimodal AI system design.
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?style=flat-square&logo=github)](https://github.com/yourusername)
+[GitHub]=https://github.com/suvarnajiwade/MediLens_Multimodel_Healthcare_AI_System.git
